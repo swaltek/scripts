@@ -1,0 +1,5 @@
+html_files/*
+*.css
+*.html
+geckodriver*
+*.txt
